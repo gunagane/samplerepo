@@ -7,5 +7,4 @@ const data = {
     phone:"898586545855",
     street : "sivalayam street",
     mandal: "attili",
-    dist:"west-godavari"
 }
