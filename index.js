@@ -6,5 +6,6 @@ const data = {
     poincode:"534225",
     phone:"898586545855",
     street : "sivalayam street",
-    mandal: "attili"
+    mandal: "attili",
+    dist:"west-godavari"
 }
